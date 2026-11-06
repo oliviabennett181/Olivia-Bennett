@@ -19,7 +19,7 @@ const INITIAL_REVIEWS: Review[] = [
   {
     id: 1,
     name: "Emily H",
-    avatar: "EH",
+    avatar: "/customer-name2.jpg",
     avatarBg: "bg-teal-700",
     date: "Apr 9, 2025",
     rating: 5,
@@ -28,7 +28,7 @@ const INITIAL_REVIEWS: Review[] = [
   {
     id: 2,
     name: "Michael R",
-    avatar: "MR",
+    avatar: "/customer-name3.jpg",
     avatarBg: "bg-teal-700",
     date: "Mar 7, 2026",
     verified: true,
@@ -50,7 +50,7 @@ const MORE_REVIEWS: Review[] = [
   {
     id: 4,
     name: "Bryan S",
-    avatar: "",
+    avatar: "/customer-name1.jpg",
     date: "June 28, 2026",
     verified: true,
     rating: 5,
@@ -59,7 +59,7 @@ const MORE_REVIEWS: Review[] = [
   {
     id: 5,
     name: "Chris M",
-    avatar: "CM",
+    avatar: "/customer-name4.jpg",
     avatarBg: "bg-teal-700",
     date: "July 10, 2026",
     verified: true,
@@ -69,7 +69,7 @@ const MORE_REVIEWS: Review[] = [
   {
     id: 6,
     name: "David K",
-    avatar: "D",
+    avatar: "/customer-name5.jpg",
     avatarBg: "bg-teal-700",
     date: "Aug 17, 2026",
     verified: true,
@@ -79,7 +79,7 @@ const MORE_REVIEWS: Review[] = [
   {
     id: 7,
     name: "Kevin L",
-    avatar: "",
+    avatar: "/customer-name6.jpg",
     date: "Sept 15, 2026",
     rating: 5,
     text: "I felt relaxed.",
@@ -87,7 +87,7 @@ const MORE_REVIEWS: Review[] = [
   {
     id: 8,
     name: "John West",
-    avatar: "",
+    avatar: "/customer-name7.jpg",
     date: "Sept 28, 2026",
     rating: 5,
     text: "Got a massage from Olivia. She was very nice and was very good at paying attention to applying the right amount of pressure I had asked for. She was attentive the whole time and made sure to give me the full 60 mins!",
